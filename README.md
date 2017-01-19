@@ -9,10 +9,13 @@ Pierre-Andre Shih
 Junzhi Wu
 
 To run the code: 
-Run Gomoku AI.java 
-click File: New 
-then click Add AI, choose players: PlayerLambda/Mu/Nu.class, McMaster_And_Shih.class 
-select Human or AI for Player 1 and 2,
-click New Game
+
+1) Run Gomoku AI.java and click File: New 
+
+2) select Human or AI for Player 1 and 2
+
+3) if you choose AI for player, click "Add AI" and choose from PlayerLambda, PlayerMu, PlayerNu, McMaster_And_Shih. 
+
+4) click New Game
 
 
