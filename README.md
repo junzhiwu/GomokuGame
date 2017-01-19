@@ -1,5 +1,6 @@
 # Gomoku Game - five in a row (Java)
 a Java based gomoku game that supports human vs human, human vs AI agent, AI agent vs AI agent
+
 use a combination method of iterative deepening search with alpha-beta pruning and heuristic functions
 
 Authors: 
